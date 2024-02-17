@@ -3,7 +3,9 @@
 export default function Home() {
   return (
    <span>
-    <p>template is working</p>
+    <span>
+      Project IS INSPIRED BY THE WIREFLOW
+    </span>
    </span>
   );
 }
