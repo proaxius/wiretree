@@ -16,3 +16,8 @@ i was hoping i could use same graph library as wireflow the library gives too mu
 Also this project is completely open if someone wants to add something or have suggestions i will gladly listen to them, just dont make any useless pull-requests like md or some text 
 
 # **_THANKYOU**
+
+# About Branches 
+## RELEASE : EVERYONE | FOR USE | STABLE | FEATURE TESTED AND RELEASED
+## PRERELEASE : FOR THOSE WHO WANT TO GET INTO TESTING | EARLY FEATURE ACCESS | MAY BE OR IT MAY NOT BE STABLE | IN EARLY RELEASE PHASE
+## PRETESTING : ONLY DEVELOPERS | IN DEVELOPMENT  AND TESTING | MAY BREAK DEPENDS ON YOUR SYSTEM OR PACKAGES OR ANYTHING | IN TESTING AND DEVELOPMENT PHASE
