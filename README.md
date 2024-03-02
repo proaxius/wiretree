@@ -1,23 +1,36 @@
-## This Project is developed to give a alternative to wireflow 
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-# WireTree is inpired by the Wireflow 
+## Getting Started
 
-#### This project will be available on web with offline support
+First, run the development server:
 
-I will try my best to keep it as simple as possible !
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-#### Please keep in mind , This project Doesn't share any code base from Wireflow , Wireflow is a very good Project I will try to keep the original  project structure with some more features
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-#ABOUT PROJECT
-i was hoping i could use same graph library as wireflow the library gives too much error and i think has started to break also it has not been Updated in a long time i think it was 4 or 5 year ago last time it was updated my sources were npm and some random webpages
-**For that reason** 
-#### I have decided to use **_G6**  with nextjs i dont know if it will work or not For now lets just  hope it works,
+You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-Also this project is completely open if someone wants to add something or have suggestions i will gladly listen to them, just dont make any useless pull-requests like md or some text 
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-# **_THANKYOU**
+## Learn More
 
-# About Branches 
-## RELEASE : EVERYONE | FOR USE | STABLE | FEATURE TESTED AND RELEASED
-## PRERELEASE : FOR THOSE WHO WANT TO GET INTO TESTING | EARLY FEATURE ACCESS | MAY BE OR IT MAY NOT BE STABLE | IN EARLY RELEASE PHASE
-## PRETESTING : ONLY DEVELOPERS | IN DEVELOPMENT  AND TESTING | MAY BREAK DEPENDS ON YOUR SYSTEM OR PACKAGES OR ANYTHING | IN TESTING AND DEVELOPMENT PHASE
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
