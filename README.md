@@ -1,6 +1,6 @@
 ## This Project is developed to give a alternative to wireflow 
 
-# WireTree is inpired by the Wireflow 
+# WireTree is inspired by the Wireflow 
 
 #### This project will be available on web with offline support
 
@@ -20,5 +20,5 @@ Also this project is completely open if someone wants to add something or have s
 # About Branches 
 ## RELEASE : EVERYONE | FOR USE | STABLE | FEATURE TESTED AND RELEASED
 ## PRERELEASE : FOR THOSE WHO WANT TO GET INTO TESTING | EARLY FEATURE ACCESS | MAY BE OR IT MAY NOT BE STABLE | IN EARLY RELEASE PHASE
-## PREDEVELOPMENT : ONLY FOR DEVELOPERS | ALWAYS BREAKING AND PLEASE DONT CREATE ANY Pull REQUESTS or anything all mistakes all allowed in this branch just play with it.
+## PREDEVELOPMENT : ONLY FOR DEVELOPERS | ALWAYS BREAKING AND PLEASE DONT CREATE ANY Pull REQUESTS or anything all,  this branch is exists only to play with the code.
 ## TESTING : ONLY DEVELOPERS | IN DEVELOPMENT  AND TESTING | MAY BREAK DEPENDS ON YOUR SYSTEM OR PACKAGES OR ANYTHING | IN TESTING AND DEVELOPMENT PHASE
