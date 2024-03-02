@@ -1,6 +1,6 @@
 ## This Project is developed to give a alternative to wireflow 
 
-# WireTree is inpired by the Wireflow 
+# WireTree is inspired by the Wireflow 
 
 #### This project will be available on web with offline support
 
