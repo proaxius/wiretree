@@ -1,11 +1,11 @@
-import Cytoscape from "./Components/Cytoscape";
-import Menu from "./Components/Menu";
+import Canvas from "./Components/Canvas";
+
+
 
 export default function Home() {
   return (
-  <main>
-  <Cytoscape />
-  <Menu />
+  <main className="h-[100vh] w-[100%] ">
+<Canvas />
   </main>
   );
 }
