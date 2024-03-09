@@ -1,5 +1,5 @@
 import React from 'react'
-import Header from './NodeElements/Header'
+import NodeElements from './NodeElements/NodeElements'
 
 export default function Menu() {
 
@@ -8,10 +8,10 @@ export default function Menu() {
     <div className='absolute bottom-0 bg-slate-600 w-[100%]'>
       <span>Menu</span>
       <div className='overflow-x-auto overflow-y-hidden '>
-      <div className='inline-flex  '>
-      <Header />
+      
+      <NodeElements />
 
-      </div>
+    
 
 </div>
     </div>
