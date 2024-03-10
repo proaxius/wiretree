@@ -232,14 +232,12 @@ if(event.deltaY !== 0){
 
     return (
         <div className="h-52 w-[100vw] overflow-y-hidden overflow-x-auto" onWheel={scrollX}  ref={container_y}>
-            <div  className="inline-flex gap-8 mx-2 ">
+            <div  className="inline-flex gap-8 mx-4 ">
 
             {dataElements.map((inputSet)=>  { 
-                return <div draggable={true}  className="h-28 w-28" key={inputSet.id}>
+                return <div draggable={true} onDragStart={(event)=> event.dataTransfer.setData("text/plain",inputSet.elementType)} className="h-28 w-28" key={inputSet.id}>
                     <label>{inputSet.label}</label>
                     <p>{inputSet.id}</p>
-                    
-                    
                     </div>
             })}
             </div>

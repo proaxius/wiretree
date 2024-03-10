@@ -18,3 +18,9 @@
 
 *for next test=>*
 **NODE CREATION ON DRAG AND DROP**
+## DATE 10:03:2024
+**Data trensfer between the functional component is Good to go**
+**This was my first tim etackling this type of problem but man that was easy than expected**
+
+*for next*
+**Node Creation on dragDrop()**
