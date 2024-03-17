@@ -1,9 +1,8 @@
 
-import { Handle } from "reactflow"
+
 import Photo1 from "./NodeAssets/svg/header.svg"
 import Photo2 from "./NodeAssets/svg/table-top.svg"
-import Image from "next/image"
-import { useRef } from "react"
+
 
 export default function NodeElements() {
    
